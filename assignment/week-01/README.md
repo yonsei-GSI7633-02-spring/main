@@ -6,7 +6,7 @@
 
 ## 제출 방법
 ### 1. 본인의 Repository 생성하기
-1. [https://github.com/yonsei-sgi-1](https://github.com/yonsei-sgi-1)로 이동
+1. [https://github.com/yonsei-GSI7633-02-spring](https://github.com/yonsei-GSI7633-02-spring)로 이동
 1. 우측에 **New** 버튼 클릭
 1. **Repository name**에 본인의 학번 입력
 1. **Add a README file** Check Box 클릭
