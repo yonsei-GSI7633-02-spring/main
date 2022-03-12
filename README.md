@@ -81,7 +81,8 @@
 
 |               Assignment               | Date Assigned |   Due Date   |    Tutorial  |   Solution   |    Point     |
 |:--------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
-| [Assignment 1]                      |  토, 3월 5일  |  금, 3월 12일 | [Video](https://www.loom.com/share/1d7d4511cec7476e9c6fb4d080f9e4a3) | | 10 |
+| [Assignment 1]                      |  토, 3월 5일  |  금, 3월 11일 | [Video](https://www.loom.com/share/1d7d4511cec7476e9c6fb4d080f9e4a3) | | 10 |
+| [Assignment 1]                      |  토, 3월 12일  |  금, 3월 18일 |  | | 10 |
 
 
 
